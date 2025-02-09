@@ -1,5 +1,0 @@
-transformers== 4.48.3
-huggingface_hub== 0.28.1
-gradio == 5.15.0
-nltk
-torch
